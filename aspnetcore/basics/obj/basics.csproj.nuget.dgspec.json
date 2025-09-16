@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\aspnetcore\\basics\\basics.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\aspnetcore\\aspnetcore\\basics\\basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\aspnetcore\\basics\\basics.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\aspnetcore\\aspnetcore\\basics\\basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\aspnetcore\\basics\\basics.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\aspnetcore\\aspnetcore\\basics\\basics.csproj",
         "projectName": "basics",
-        "projectPath": "C:\\Users\\User\\Desktop\\aspnetcore\\basics\\basics.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\aspnetcore\\aspnetcore\\basics\\basics.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\aspnetcore\\basics\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\aspnetcore\\aspnetcore\\basics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
